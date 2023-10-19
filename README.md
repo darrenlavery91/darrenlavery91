@@ -1,6 +1,6 @@
 
   👋 Hi, I’m @darrenlavery91
-- 👀 I’m interested in ... ansible, terrform, cloud, automation, Red Hat Openshift
+- 👀 I’m interested in ... ansible, terraform, cloud, automation, Red Hat Openshift
 - 🌱 I’m currently learning ... google cloud, Openshift
 - 📫 How to reach me ... Lavery91@gmail.com
 
