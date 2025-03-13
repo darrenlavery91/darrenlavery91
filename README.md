@@ -1,5 +1,6 @@
 
   👋 Hi, I’m @darrenlavery91
+  ![snake animation](https://github.com/github_user_name/github_user_name/blob/output/github-contribution-grid-snake2.svg)
 - 👀 I’m interested in ... ansible, terraform, cloud, automation, Red Hat Openshift
 - 🌱 I’m currently learning ... google cloud, Openshift
 - 📫 How to reach me ... Lavery91@gmail.com
