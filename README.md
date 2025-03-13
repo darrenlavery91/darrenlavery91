@@ -38,6 +38,7 @@
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 https://medium.com/@lavery91/understanding-vclusters-virtual-kubernetes-clusters-129c1c2e198b
+
 https://medium.com/@lavery91/event-driven-ansible-with-zabbix-282d42066edc
 <!-- BLOG-POST-LIST:END -->
 <!---
