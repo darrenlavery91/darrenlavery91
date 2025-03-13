@@ -23,7 +23,7 @@
   <img src="https://skillicons.dev/icons?i=github"title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=jenkins"title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=postgres"title="React" alt="React" width="40" height="40"/>&nbsp;
-    
+  <img src="https://skillicons.dev/icons?i=html"title="React" alt="React" width="40" height="40"/>&nbsp;
   </td>
   </tr>
 </table>
