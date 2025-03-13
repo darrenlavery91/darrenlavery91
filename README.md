@@ -6,11 +6,11 @@
   <tr>
   <td>
   <img src="https://skillicons.dev/icons?i=redhat"title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=ansible"title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=openshift"title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=linux"title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=ubuntu"title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg"title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=ansible"title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=openshift"title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/podman/podman-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
