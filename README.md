@@ -10,7 +10,7 @@
 <table>
   <tr>
   <td>
-  <img src="![Red_Hat_logo](https://github.com/user-attachments/assets/329c6073-a466-419d-a5a2-ff061999a95b)"title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg"title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/podman/podman-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
