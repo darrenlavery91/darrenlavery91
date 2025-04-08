@@ -25,6 +25,7 @@
   <img src="https://skillicons.dev/icons?i=postgres"title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=html"title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rancher/rancher-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   </td>
   </tr>
 </table>
@@ -43,6 +44,10 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+https://medium.com/@lavery91/running-vclusters-on-red-hat-openshift-0d6d0bc39945
+
+https://medium.com/@lavery91/running-vclusters-on-aws-eks-5e7057744bcc
+
 https://medium.com/@lavery91/understanding-kro-16d8514746f6
 
 https://medium.com/@lavery91/understanding-vclusters-virtual-kubernetes-clusters-129c1c2e198b
