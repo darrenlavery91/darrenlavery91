@@ -44,6 +44,8 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+https://medium.com/@lavery91/vcluster-snaphots-and-restore-0ca138bc5dfe
+
 https://medium.com/@lavery91/running-vclusters-on-red-hat-openshift-0d6d0bc39945
 
 https://medium.com/@lavery91/running-vclusters-on-aws-eks-5e7057744bcc
