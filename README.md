@@ -41,6 +41,8 @@
 
 <hr>
 
+## Ansible Galaxy roles:
+https://galaxy.ansible.com/ui/standalone/namespaces/27752/
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
