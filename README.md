@@ -30,13 +30,22 @@
   </tr>
 </table>
 
-## ⚡️ Stats
+## Stats
 
 <br>
 
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=darrenlavery91&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="darrenlavery91 GitHub Stats" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=darrenlavery91&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="darrenlavery91 Most Used Languages" />
+<div align="center">
+  <img
+    width="390"
+    src="https://github-readme-stats.vercel.app/api?username=darrenlavery91&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en&cache_seconds=1800"
+    alt="darrenlavery91 GitHub Stats"
+  />
+
+  <img
+    width="325"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=darrenlavery91&theme=transparent&layout=compact&hide=css&langs_count=8&border_radius=10&locale=en&cache_seconds=1800"
+    alt="darrenlavery91 Most Used Languages"
+  />
 </div>
 
 <hr>
